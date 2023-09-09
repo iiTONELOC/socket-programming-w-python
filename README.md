@@ -6,12 +6,6 @@ This repo serves as personal documentation for labs encountered in a networking 
 
 This is a work in progress and this README will be updated accordingly.
 
-## Implemented Labs
-
-- [Usage](#usage)
-- [Web Server](./1-WebServerLab/README.md)
-- [UDP Pinger](./2-UDP-PingerLab/README.md)
-
 ## Usage
 
 Clone the repo
@@ -47,6 +41,11 @@ python server.py
 python server-opt1.py
 
 ```
+
+## Implemented Labs
+
+- [Web Server](./1-WebServerLab/README.md)
+- [UDP Pinger](./2-UDP-PingerLab/README.md)
 
 ## References
 
