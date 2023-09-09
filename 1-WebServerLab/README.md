@@ -389,7 +389,7 @@ HTTP/1.1 200 OK
 </html>
 ```
 
-The client closes after a successful response, as it should since we invoke the arguments when the file. We could improve this to take input from the user and run on a loop so we can make multiple requests.
+The client closes after a successful response, as it should since we invoke the arguments with the file. We could improve this to take input from the user and run on a loop so we can make multiple requests.
 
 ## References
 
