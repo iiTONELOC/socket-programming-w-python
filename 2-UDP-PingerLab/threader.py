@@ -48,7 +48,6 @@ class ThreadManager:
             
             # If it doesn't stop within the timeout, escalate to forceful termination
             if self.thread.is_alive():
-                print('Terminating thread', self.thread.getName())
                 self.terminate_thread(self.thread)
                 self.thread = None
 
